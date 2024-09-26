@@ -1,4 +1,4 @@
-Math Operations Project
+# Math Operations Project
 This project is a simple library that performs basic mathematical operations. It provides functions for addition, subtraction, multiplication, division, and other advanced operations. The code is designed to be modular, easy to use, and expandable for future mathematical functions.
 
 Features
