@@ -1,12 +1,15 @@
 #include <iostream> using namespace std;
 int PerformOperation(int operand1, char oper, int operand2){ 
-if(oper== '+'){
+  if(oper== '+'){
 return operand1 + operand2;
-} else if(oper=='-'){
+} 
+  else if(oper=='-'){
 return operand1-operand2;
-} else if(oper=='*'){
+} 
+  else if(oper=='*'){
 return operand1*operand2;
-} else if(oper=='/'){
+} 
+  else if(oper=='/'){
 return operand1/operand2;
 }
 else if(oper=='%'){
